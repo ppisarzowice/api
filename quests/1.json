@@ -1,0 +1,9 @@
+{
+    "id": 1,
+    "title": "Find the Treasure",
+    "description": "Locate the hidden treasure on the map.",
+    "effect": {
+        "execute": "dialog",
+        "id": 2
+    }
+}

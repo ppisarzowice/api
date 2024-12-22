@@ -1,0 +1,11 @@
+{
+    "id": 1,
+    "name": "Old Wizard",
+    "color": "#ebc034",
+    "position": { "x": 1, "y": 1 },
+    "effect": {
+        "execute": "dialog",
+        "id": 1
+    },
+    "state": "active" 
+}
